@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DCS_930L</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LOGIN</string>
+    <string name="title_username">Username</string>
+    <string name="title_password">Password</string>
+    <string name="title_ipserver">Ip Server</string>
+    <string name="title_portserver">Port Server</string>
+    <string name="title_simpan">Simpan</string>
+    <string name="title_logout">Logout</string>
+    <string name="title_activity_setting">Pengaturan</string>
+    <string name="title_activity_video">Video</string>
+    <string name="title_reconnect">Refresh</string>
+    <string name="title_recorded">Rekaman</string>
+    <string name="title_activity_rekaman">Rekaman</string>
+    <string name="title_activity_list_rekaman">Video Rekaman</string>
+    <string name="title_activity_list_date_rekaman">Item Rekaman</string>
+    <string name="title_activity_list_time_rekaman">Tanggal Rekaman</string>
+    <string name="title_activity_list_all_rekaman">Daftar Rekaman</string>
+
+
+</resources>
